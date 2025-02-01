@@ -1062,7 +1062,7 @@ registerPlugin({
 					var ytdl_config = {
 						command_options: [
 							'--cookies-from-browser',
-							'chrome',  // o firefox/safari según tu navegador
+							'firefox',  // o firefox/safari según tu navegador
 							'--no-check-certificate'
 						]
 					};					
